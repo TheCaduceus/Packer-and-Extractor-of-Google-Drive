@@ -250,7 +250,7 @@ This Option is under development and will be released in v2.2.2! You can still u
 <h4><b> v2.2.1:<a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive/archive/refs/tags/v2.2.1.zip"> Download Now</a> (Latest)</b></h4>
 <h2>⛑Contact Us!</h2>
 <h4><b>Checkout our Website for more: <a href="https://www.caduceus.ml/">Open it!</a></b></h4>
-<h4><b>oin our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
+<h4><b>Join our Update Channel at Telegram:<a href="https://telegram.me/TheCaduceusUPDATE"> Join Now!</a></b></h4>
 <h4><b>Directly Contact the Developer using Telegram <a href="https://telegram.me/HelpAutomatted_Bot">@HelpAutomatted_Bot</a></b></h4>
 <h2>❤️Credits & Thanks</h2>
 <p><b><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making UI and Collab Notebook.</b></p>
