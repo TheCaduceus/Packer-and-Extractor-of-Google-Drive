@@ -206,10 +206,11 @@
   <h4><b>Get Instructions on How to Handle or use Advanced Method Section:<a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive/blob/main/Advanced-Methods.md"> Let's Read</a> </b></h4>
  <p><b><i>❗Read the Above Advanced Guide carefully before touching ADVANCED Section in Colab.❗</i></b></p>
 <h2>〽️Variables Used</h2>
-<h4><b>1.SHARED DRIVE NAME1: Replace from the Name of Shared Drive from which the file needs to be taken.</b></h4>
-<h4><b>2.SHARED DRIVE NAME2: Replace from the Name of Shared Drive in which final output needs to be stored.</b></h4>
-<h4><b>3.OUTPUT FILE NAME: Name of the Final output file after processing it.</b></h4>
-<h4><b>4.FILE OR FOLDER NAME: The Name of File (with format) or Folder which needs to be processed.</b></h4>
+<h4><b>
+1.SHARED DRIVE NAME1:Replace from the Name of Shared Drive from which the file needs to be taken.<br>
+2.SHARED DRIVE NAME2: Replace from the Name of Shared Drive in which final output needs to be stored.<br>
+3.OUTPUT FILE NAME: Name of the Final output file after processing it.<br>
+4.FILE OR FOLDER NAME: The Name of File (with format) or Folder which needs to be processed.<br>
 <h4><b>5.PASSWORD: The password for unpacking or packing a particular file.</b></h4>
 <h2>📑Packages Used</h2>
 <h4><b>1.RAR Packages: For packing files.(Official)</b></h4>
