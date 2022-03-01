@@ -2,10 +2,10 @@
 <p><b>The Most Simple yet Powerful and Advanced Google Colab Notebook for  Zip, Unzip, Tar, UnTar, RaR, UnRaR Files in Google Drive.</b></p>
 
 <h2>🆕What's New?🆕</h2>
-<p><b><i>v2.2.2 (Beta)</i></b></p><br>
+<p><b><i>v2.2.2 (Beta)</i></b></p>
 <h4><b>1.Solved a sucky .zip Error in Zipping Section including all Movements!😙</b></h4>
 <h4><b>2.Heavy Changes in ADVANCED Pack/UnPack Methods!🤣</b></h4>
-<p><b><i>V2.2.1</i></b></p><br>
+<p><b><i>V2.2.1</i></b></p>
 <h4><b>1.Added Shared Drives Support!😉</b></h4>
 <h4><b>2.Direct Google Account Login!🤩</b></h4>
 <h4><b>3.Added Timeout Preventer Advanced!😊</b></h4>
