@@ -10,7 +10,6 @@
 <h4><b>2.Direct Google Account Login!🤩</b></h4>
 <h4><b>3.Added Timeout Preventer Advanced!😊</b></h4>
 <h4><b>4.Move Item after Packing or Extracting!(Read Below)😁</b></h4>
-
 <h2>🔰Features🔰</h2>
 <h4><b>1.File/Folder Zip or UnZip😊</b></h4>
 <h4><b>2.File/Folder Tar or UnTar😌</b></h4>
