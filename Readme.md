@@ -204,6 +204,7 @@
 <h3>🖥️Advanced Packing and Unpacking</h3>
 <h4><b>Integreated packing whole shared drive into Zip, RaR at once!</b></h4>
   <h4><b>Get Instructions on How to Handle or use Advanced Method Section:<a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive/blob/main/Advanced-Methods.md"> Let's Read</a> </b></h4>
+ <p><b><i>❗Read the Above Advanced Guide carefully before touching ADVANCED Section in Colab.❗</i></b></p>
 <h2>〽️Variables Used</h2>
 <h4><b>1.SHARED DRIVE NAME1: Replace from the Name of Shared Drive from which the file needs to be taken.</b></h4>
 <h4><b>2.SHARED DRIVE NAME2: Replace from the Name of Shared Drive in which final output needs to be stored.</b></h4>
