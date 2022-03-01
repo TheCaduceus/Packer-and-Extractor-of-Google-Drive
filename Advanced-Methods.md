@@ -15,4 +15,4 @@
 ```
 /gdrive/My Drive/File_Name.format # Format like (.mp3/.mp4/.pdf/.mkv/.json)
 ```
-**Now don't take it lazy because even removing ```/``` from ```/gdrive``` will going to disrupt whole program and sometimes writing .zip or .rar during processes can trigger an Error, However system is also going to help out user by solving INPUT Error automatically.**
+**Now don't take it lazy because even removing ```/``` from ```/gdrive``` will going to disrupt whole program and sometimes writing ```.zip``` or ```.rar``` during processes can trigger an Error, However system is also going to help out user by solving INPUT Error automatically.**
