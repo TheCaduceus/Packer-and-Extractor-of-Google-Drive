@@ -203,16 +203,7 @@
 <img src="Img/77.png" alt="77">
 <h3>🖥️Advanced Packing and Unpacking</h3>
 <h4><b>Integreated packing whole shared drive into Zip, RaR at once!</b></h4>
-  <h4><b>To pack all data of a particular Shared Drive into a particular Format then Use:</b></h4>
-<p><b>
-~~~<br>
-/gdrive/Shared drives/SHARED DRIVE NAME1/ # As the Source <br>
-/gdrive/Shared drives/SHARED DRIVE NAME2/ #As the Destination <br>
-Use My Drive as a destination:<br>
-/gdrive/My Drive/ <br>
-This Option is under development and will be released in v2.2.2! You can still use it.<br>
-~~~
-</b></p>
+  <h4><b>Get Instructions on How to Handle or use Advanced Method Section:<a href="https://github.com/TheCaduceus/Packer-and-Extractor-of-Google-Drive/blob/main/Advanced-Methods.md"> Let's Read</a> </b></h4>
 <h2>〽️Variables Used</h2>
 <h4><b>1.SHARED DRIVE NAME1: Replace from the Name of Shared Drive from which the file needs to be taken.</b></h4>
 <h4><b>2.SHARED DRIVE NAME2: Replace from the Name of Shared Drive in which final output needs to be stored.</b></h4>
